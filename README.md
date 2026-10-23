@@ -7,14 +7,14 @@ Todos os projetos estão organizados em pastas individuais.
 
 ## 🟢 Projetos Concluídos
 
-| Anime | Formato | Fonte | Progresso | Status |
+| Anime | Formato | Fonte | Episódios | Status |
 |---|---|---|---|---|
 
 ## 🟡 Projetos em Revisão
 
 | Anime | Formato | Fonte | Episódios | Status |
 |---|---|---|---|---|
-| Mitsudomoe: OPPAI IPPAI Mama Genki | OVA | BD | 🚧 Em Revisão |
+| Mitsudomoe: OPPAI IPPAI Mama Genki | OVA | BD | 1/1 | 🚧 Em Revisão |
 
 ## 🔵 Projetos em Andamento
 
