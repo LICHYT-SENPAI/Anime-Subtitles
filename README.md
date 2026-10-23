@@ -20,7 +20,7 @@ Todos os projetos estão organizados em pastas individuais.
 
 | Anime | Formato | Progresso | Status |
 |---|---|---|---|
-| Kubo-san wa Mob wo Yurusanai | BD | 1/12 | 🔄 Em andamento |
+| [Kubo-san wa Mob wo Yurusanai](./Kubo-san%20wa%20Mob%20wo%20Yurusanai%20%5BBD%5D/) | BD | 1/12 | 🔄 Em andamento |
 
 ## 📥 Downloads
 
