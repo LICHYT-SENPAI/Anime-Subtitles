@@ -14,7 +14,7 @@ Todos os projetos estão organizados em pastas individuais.
 
 | Anime | Formato | Episódios | Status |
 |---|---|---|---|
-| Mitsudomoe | OVA | 1 | 🚧 Em Revisão |
+| Mitsudomoe: OPPAI IPPAI Mama Genki | OVA | 1 | 🚧 Em Revisão |
 
 ## 🔵 Projetos em Andamento
 
