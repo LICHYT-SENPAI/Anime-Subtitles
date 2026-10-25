@@ -27,6 +27,16 @@ Todos os projetos estão organizados em pastas individuais.
 | Anime | Formato | Fonte | Progresso | Status |
 |---|---|---|---|---|
 
+## 📅 Projetos Previstos
+
+| Anime | Formato | Fonte | Episódios | Status |
+|---|---|---|---|---|
+| Watashi ga Motete Dousunda | TV | BD | 12 | 📅 Previsto |
+| Non Non Biyori | TV | BD | 12 | 📅 Previsto |
+| Non Non Biyori: Okinawa e Ikukoto ni Natta | OVA | BD | 1 | 📅 Previsto |
+| Non Non Biyori Repeat | TV | BD | 12 | 📅 Previsto |
+| Non Non Biyori Repeat: Hotaru ga Tanoshinda | OVA | BD | 1 | 📅 Previsto |
+
 ## 📥 Downloads
 
 Os arquivos de legenda estão disponíveis nas pastas correspondentes de cada projeto.
