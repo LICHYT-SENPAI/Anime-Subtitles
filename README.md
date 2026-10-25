@@ -31,11 +31,13 @@ Todos os projetos estão organizados em pastas individuais.
 
 | Anime | Formato | Fonte | Episódios | Status |
 |---|---|---|---|---|
-| Watashi ga Motete Dousunda | TV | BD | 12 | 📅 Previsto |
+| Aru Majo ga Shinu Made | TV | BD | 12 | 📅 Previsto |
 | Non Non Biyori | TV | BD | 12 | 📅 Previsto |
 | Non Non Biyori: Okinawa e Ikukoto ni Natta | OVA | BD | 1 | 📅 Previsto |
 | Non Non Biyori Repeat | TV | BD | 12 | 📅 Previsto |
 | Non Non Biyori Repeat: Hotaru ga Tanoshinda | OVA | BD | 1 | 📅 Previsto |
+| Saigo ni Hitotsu dake Onegai shitemo Yoroshii deshou ka | TV | BD | 13 | 📅 Previsto |
+| Watashi ga Motete Dousunda | TV | BD | 12 | 📅 Previsto |
 
 ## 📥 Downloads
 
