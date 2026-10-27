@@ -17,7 +17,7 @@ Todos os projetos estão organizados em pastas individuais.
 
 | Anime | Formato | Fonte | Episódios | Status |
 |---|---|---|---|---|
-
+| [Aru Majo ga Shinu Made](./Aru%20Majo%20ga%20Shinu%20Made%20%5BBD%5D/) | TV | BD | 1/12| 🚧 Em revisão |
 
 ## 🔵 Projetos em Andamento
 
@@ -36,7 +36,6 @@ Todos os projetos estão organizados em pastas individuais.
 
 | Anime | Formato | Fonte | Episódios | Status |
 |---|---|---|---|---|
-| Aru Majo ga Shinu Made | TV | BD | 12 | 📅 Previsto |
 | Non Non Biyori | TV | BD | 12 | 📅 Previsto |
 | Non Non Biyori: Okinawa e Ikukoto ni Natta | OVA | BD | 1 | 📅 Previsto |
 | Non Non Biyori Repeat | TV | BD | 12 | 📅 Previsto |
