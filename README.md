@@ -17,31 +17,22 @@ Todos os projetos estão organizados em pastas individuais.
 
 | Anime | Formato | Fonte | Episódios | Status |
 |---|---|---|---|---|
-| [Aru Majo ga Shinu Made](./Aru%20Majo%20ga%20Shinu%20Made%20%5BBD%5D/) | TV | BD | 1/12| 🚧 Em revisão |
 
 ## 🔵 Projetos em Andamento
 
 | Anime | Formato | Fonte | Progresso | Status |
 |---|---|---|---|---|
-| [Kubo-san wa Mob wo Yurusanai](./Kubo-san%20wa%20Mob%20wo%20Yurusanai%20%5BBD%5D/) | TV | BD | 2/12 | 🔄 Em andamento |
 
 
 ## ⏸️ Projetos Pausados
 
 | Anime | Formato | Fonte | Progresso | Status |
-|---|---|---|---|---|
 
 
 ## 📅 Projetos Previstos
 
 | Anime | Formato | Fonte | Episódios | Status |
 |---|---|---|---|---|
-| Non Non Biyori | TV | BD | 12 | 📅 Previsto |
-| Non Non Biyori: Okinawa e Ikukoto ni Natta | OVA | BD | 1 | 📅 Previsto |
-| Non Non Biyori Repeat | TV | BD | 12 | 📅 Previsto |
-| Non Non Biyori Repeat: Hotaru ga Tanoshinda | OVA | BD | 1 | 📅 Previsto |
-| Saigo ni Hitotsu dake Onegai shitemo Yoroshii deshou ka | TV | BD | 13 | 📅 Previsto |
-| Watashi ga Motete Dousunda | TV | BD | 12 | 📅 Previsto |
 
 
 ## 📥 Downloads
