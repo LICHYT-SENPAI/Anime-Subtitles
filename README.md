@@ -27,7 +27,7 @@ Todos os projetos estão organizados em pastas individuais.
 ## ⏸️ Projetos Pausados
 
 | Anime | Formato | Fonte | Progresso | Status |
-
+|---|---|---|---|---|
 
 ## 📅 Projetos Previstos
 
